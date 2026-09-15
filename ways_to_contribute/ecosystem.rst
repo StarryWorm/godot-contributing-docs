@@ -19,10 +19,7 @@ There are many ways to help Godot that allow you to work on your own terms. Here
 
 - **Write plugins (GDScript, C#, & more).**
   Community addons are not directly included in the core engine download or repository, yet they provide essential quality of life upgrades for your fellow game developers.
-  Upload your plugins to the `Godot Asset Library <https://godotengine.org/asset-library/asset>`_ to make them available to others.
-
-  ..
-    update to talk about Asset Store later
+  Upload your plugins to the `Godot Asset Store <https://store.godotengine.org/>`_ to make them available to others.
 
 - **Create tutorials & more.**
   How did you get started with the Godot Engine?
